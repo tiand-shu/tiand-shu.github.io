@@ -37,3 +37,12 @@ $(function() {
 	]
 	});
 });
+
+$(function() {
+	$('.slider__col-1').slick({
+		autoplay:true,
+		autoplaySpeed:5000,
+		dots:true,
+		arrows:true,
+	});
+});

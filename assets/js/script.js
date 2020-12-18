@@ -1,1 +1,0 @@
-common_ui=require("./modules/common_ui.js"),$(function(){common_ui.init()});
